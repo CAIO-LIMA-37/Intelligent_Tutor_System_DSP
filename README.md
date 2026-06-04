@@ -27,7 +27,7 @@ O projeto encontra-se em fase de exploração técnica, considerando a seguinte 
 
 * **IA & Orquestração:** Hugging Face-Transformers e vLLM.
 * **Modelos:** Llama Family, Foundation Models (Open-source & API-based).
-* **Desenvolvimento:** Python (Backend), Integrações de Frontend (HTML/CSS/Docker).
+* **Desenvolvimento:**  Backend (Python/Docker), Integrações de Frontend (HTML/CSS).
 
 ---
 
