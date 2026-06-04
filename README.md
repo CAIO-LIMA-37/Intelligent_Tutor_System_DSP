@@ -63,4 +63,3 @@ The project is in the technical exploration phase, considering the following sta
 <p align="center">
   <strong>Developed with ☕ and 🤖 at <a href="https://www.lasse.ufpa.br/pt">LASSE - UFPA</a></strong>
 </p>
-```
