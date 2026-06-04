@@ -33,7 +33,7 @@ The project is in the technical exploration phase, considering the following sta
 |--------------------|--------------------------------------------------------------------------------------|
 | **AI & Orchestration** | Hugging Face `Transformers`, `vLLM`                                                  |
 | **Models**         | Llama family, foundation models (open‑source & API‑based)                            |
-| **Development**    | Backend (Python / Docker), frontend integrations (HTML / CSS)                       |
+| **Development**    | Backend (Python / Docker / SQL), frontend integrations (HTML / CSS/ TypeScript)                       |
 
 ---
 
