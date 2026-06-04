@@ -46,3 +46,22 @@ sudo docker compose up -d api-gateway
 
 === REALIZAR OS TESTES ===
 python3 gerador_respostas_2.py
+
+=== Comando de Engenharia de Prompt ===
+<instrucoes_criticas>
+[LANGUAGE LOCK]
+Detect the language of the question above.
+IF ENGLISH: You MUST start your response with "The answer to your question is:" and proceed in English.
+IF PORTUGUESE: Você DEVE iniciar sua resposta com "A resposta para sua pergunta é:" e prosseguir em português.
+
+[SYSTEM RULES]
+Answer using EXCLUSIVELY the provided academic context.
+Follow all formatting rules (LaTeX for math, no brackets for equations).
+
+[REFERENCES TEMPLATE]
+(EN) For more details, consult the following reference:
+Book: [Name] | Chapter: [Name] | Section: [Name] | Page: [Page]
+
+(PT) Para aprofundar seus conhecimentos consulte a seguinte referência:
+Livro: [Nome] | Capítulo: [Nome] | Seção: [Seção] | Página: [Página]
+</instrucoes_criticas>"""
