@@ -1,7 +1,6 @@
 # 📚 LLMs for Teaching: Algorithm Development & Research
 
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge&logo=github)
-![License](https://img.shields.io/badge/License-Private-red?style=for-the-badge)
 ![Field](https://img.shields.io/badge/Field-LLM-blue?style=for-the-badge&logo=python)
 ![Field](https://img.shields.io/badge/Field-Agent_AI-orange?style=for-the-badge&logo=openai)
 ![Field](https://img.shields.io/badge/Field-Teaching-green?style=for-the-badge&logo=google-classroom)
