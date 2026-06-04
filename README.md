@@ -33,17 +33,18 @@ O projeto encontra-se em fase de exploração técnica, considerando a seguinte 
 
 ## 📂 Estrutura do Projeto
 
-* **`/src`**: Código-fonte dos algoritmos do AcademiCK.
-* **`/notebooks`**: Jupyter Notebooks para testes rápidos e visualização de dados.
-* **`/docs`**: Documentação técnica e especificações dos algoritmos.
-* **`/data`**: Amostras de dados para teste.
+* **`/benchmark`**: Testes e tratamentos feitos sobre a base de dados (benchmark) da análise quantitativa.
+* **`/qualitative`**: Um notebook (ipynb) que contêm a análise qualitativa feita na seção do presente artigo deste repositório.
+* **`/quantitative`**: Um notebook (ipynb) e os datasets que contêm a análise quantitativa feita na seção do presente artigo deste repositório.
+* **`/src`**: Código-fonte dos algoritmos do AcademiCK usados como base para o desenvolvimento e experimento do ITS desenvolvido para a pesquisa.
 
 ---
 
 ## 👥 Colaboradores
 * **Caio Lima**
-* **Mariana**
 * **Thiago**
+* **Mariana**
+* **Frank**
 * **Prof. Aldebaro**
 
 ---
