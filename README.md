@@ -6,14 +6,14 @@
 ![Field](https://img.shields.io/badge/Field-Agent--AI-orange?style=for-the-badge&logo=openai)
 ![Field](https://img.shields.io/badge/Field-Teaching-green?style=for-the-badge&logo=google-classroom)
 
-Repositório central para o desenvolvimento, versionamento e experimentação de algoritmos baseados em Large Language Models (LLMs) aplicados ao contexto de ensino. Este projeto é desenvolvido no âmbito do [**LASSE - UFPA**](https://www.lasse.ufpa.br/pt).
+Repositório central para o desenvolvimento, versionamento e experimentação de algoritmos baseados em Large Language Models (LLMs) aplicados ao contexto de ensino de DSP (Digital Signal Processing). Este projeto é desenvolvido no âmbito do [**LASSE - UFPA**](https://www.lasse.ufpa.br/pt).
 
 ## 🎯 Objetivo do Repositório: Intelligent Tutor System (ITS)
 
-O foco central deste repositório é o desenvolvimento de um **Tutor Inteligente Baseado em IA Agêntica**. O objetivo é criar um ecossistema de múltiplos agentes (ou de somente um) capazes de mediar o aprendizado de alunos em diversas áreas do conhecimento, atuando como um mentor pedagógico que orienta o estudante em vez de apenas fornecer respostas diretas.
+O foco central deste repositório é o desenvolvimento de um **Sistema de Tutor Inteligente (ITS) Baseado em IA Agêntica**. O objetivo é criar um ecossistema de múltiplos agentes (ou de somente um) capazes de mediar o aprendizado de alunos em DSP, atuando como um mentor pedagógico que orienta o estudante em vez de apenas fornecer respostas diretas.
 
 ### 🛠️ Frentes de Implementação Técnica:
-* **Core Agêntico:** Experimentação e desenvolvimento com frameworks de ponta como `LangChain`, `LangGraph`, `Transformers` e `API` para orquestração de múltiplos agentes.
+* **Core Agêntico:** Experimentação e desenvolvimento com frameworks de ponta como `Transformers` e `vLLM` para orquestração de LLMs.
 * **Foundation Models:** Testes e benchmarking de LLMs *Open Source* (Llama 3, modelos do Hugging Face) e modelos proprietários para encontrar o equilíbrio entre latência e raciocínio pedagógico.
 * **Arquitetura Full Stack:** Desenvolvimento do ecossistema completo, integrando o motor de IA (Back-end) a uma interface intuitiva e responsiva (Front-end).
 * **Robustez Pedagógica:** Implementação de técnicas de mitigação de alucinações e design de prompts focados em metodologias de ensino.
@@ -25,10 +25,9 @@ O foco central deste repositório é o desenvolvimento de um **Tutor Inteligente
 
 O projeto encontra-se em fase de exploração técnica, considerando a seguinte stack:
 
-* **IA & Orquestração:** LangChain, LangGraph, Hugging Face-Transformers.
+* **IA & Orquestração:** Hugging Face-Transformers e vLLM.
 * **Modelos:** Llama Family, Foundation Models (Open-source & API-based).
-* **Desenvolvimento:** Python (Backend), Integrações de Frontend (HTML/Markdown/Modern Frameworks).
-* **Gestão de Conhecimento:** Undermind, Parsifal e Documentação Técnica (Latex).
+* **Desenvolvimento:** Python (Backend), Integrações de Frontend (HTML/CSS/Docker).
 
 ---
 
@@ -46,10 +45,6 @@ O projeto encontra-se em fase de exploração técnica, considerando a seguinte 
 * **Mariana**
 * **Thiago**
 * **Prof. Aldebaro**
-
----
-
-> **Nota:** Este é um repositório privado focado na produção científica do paper. O código aqui presente é de uso restrito aos membros do projeto.
 
 ---
 <p align="center">
